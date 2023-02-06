@@ -9,4 +9,5 @@ echo '<br>';
 $arr_col["yellow"] = "黄色";
 var_dump($arr_col);
 
+
 ?>
